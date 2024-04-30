@@ -1,2 +1,2 @@
-# modu
+# Modu
 Virtual modular synthesizer.
